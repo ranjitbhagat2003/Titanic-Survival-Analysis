@@ -18,4 +18,4 @@ The analysis identifies patterns based on:
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn
+

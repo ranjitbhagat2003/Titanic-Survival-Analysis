@@ -1,2 +1,21 @@
-# Titanic-Survival-Analysis
-Exploratory Data Analysis (EDA) on the Titanic dataset using Python, Pandas, NumPy, Matplotlib and Seaborn. The project analyzes survival patterns based on gender, passenger class and fare.
+# 🚢 Titanic Survival Analysis
+
+## 📌 Project Overview
+This project performs Exploratory Data Analysis (EDA) and Machine Learning on the Titanic dataset to predict passenger survival.
+
+The analysis identifies patterns based on:
+- Gender
+- Passenger Class
+- Age
+- Fare
+- Family Size
+
+---
+
+## 📊 Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
